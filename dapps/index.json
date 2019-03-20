@@ -513,5 +513,17 @@
       "title":"嗨金矿工",
       "description":"HIG 通证的 PoS 挖矿工具, 创新使用 Bancor+PoS 机制来平衡挖矿的成本与收益."
     }
+  },
+   {
+    "gaTag":"eoscasino",
+    "categoriy":"game",
+    "link":"http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do",
+    "logo":"eoscasino_logo.png",
+    "preview":"eoscasino.jpg",
+    "title":"EOSCasino",
+    "description":"Provide a quality game entertainment platform for digital currency users.",
+    "zh-Hans-CN":{
+      "description":"为币圈用户提供一个优质的游戏娱乐平台"
+    }
   }
 ]

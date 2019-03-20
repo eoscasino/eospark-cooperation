@@ -732,6 +732,16 @@
         "zh-Hans-CN":{
           "description":"免费获取CPU资源，激爽畅玩EOS游戏"
         }
+      },
+	  {
+        "gaTag":"EOSCasino",
+        "link":"http://rgcg.kyyy888.com:18700/main/eos/520972/1/index.do",
+        "logo":"eoscasino_logo.png",
+        "title":"EOSCasino",
+        "description":"Provide a quality game entertainment platform for digital currency users.",
+        "zh-Hans-CN":{
+          "description":"为币圈用户提供一个优质的游戏娱乐平台"
+        }
       }
     ]
   }
